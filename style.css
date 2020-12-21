@@ -1,0 +1,18 @@
+#welcome {
+    background: linear-gradient(blue 0%, skyblue 100%);
+    text-align: center;
+    height: 800px;
+    position: absolute;
+    left:0;
+    top:0;
+}
+
+
+#image1 {
+    border-radius: 3%;
+    width: 500px;
+    height:300px;
+    margin-top: 150px;
+    
+
+}
